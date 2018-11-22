@@ -1,7 +1,7 @@
 # Simple selenium 
 
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+[![Build Status]
 
 Script simplificado para ejecutar selenium mediante python
 
@@ -19,4 +19,5 @@ https://sites.google.com/a/chromium.org/chromedriver/downloads
 
 ```sh
 $ pip install selenium
+
 ```
